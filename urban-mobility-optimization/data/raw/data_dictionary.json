@@ -1,0 +1,20 @@
+{
+    "economy": "Synthetic economy identifier",
+    "economy_code": "Three-letter economy code",
+    "year": "Year of observation (2010-2022)",
+    "income_group": "World Bank income classification",
+    "region": "Geographic region",
+    "gdp_per_capita_ppp": "GDP per capita, PPP (constant 2017 international $)",
+    "road_density_km_per_100sqkm": "Road density (km of road per 100 sq. km of land area)",
+    "rail_lines_total_km": "Rail lines (total route-km)",
+    "air_transport_passengers": "Air transport, passengers carried (thousands)",
+    "container_port_traffic_teu": "Container port traffic (TEU: 20 foot equivalent units)",
+    "energy_use_per_gdp": "Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
+    "co2_emissions_per_capita": "CO2 emissions (metric tons per capita)",
+    "co2_transport_pct_total": "CO2 emissions from transport (% of total fuel combustion)",
+    "trade_pct_gdp": "Trade (% of GDP)",
+    "urban_population_pct": "Urban population (% of total population)",
+    "lpi_overall_score": "Logistics Performance Index: Overall (1=low to 5=high)",
+    "lpi_infrastructure_score": "Logistics Performance Index: Quality of trade and transport infrastructure (1=low to 5=high)",
+    "gross_capital_formation_pct_gdp": "Gross capital formation (% of GDP) - proxy for infrastructure investment"
+}

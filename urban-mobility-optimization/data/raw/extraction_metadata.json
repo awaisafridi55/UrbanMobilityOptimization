@@ -1,0 +1,45 @@
+{
+    "creation_date": "2026-01-31 10:07:07",
+    "data_type": "Synthetic dataset based on World Bank indicator patterns",
+    "purpose": "Portfolio project - Urban Mobility Optimization Analysis",
+    "data_source_methodology": "Generated using realistic parameter ranges and correlations from actual World Bank data",
+    "time_period": "2010-2022",
+    "total_economies": 130,
+    "total_records": 1690,
+    "indicators": [
+        "road_density_km_per_100sqkm",
+        "rail_lines_total_km",
+        "air_transport_passengers",
+        "container_port_traffic_teu",
+        "energy_use_per_gdp",
+        "co2_emissions_per_capita",
+        "co2_transport_pct_total",
+        "gdp_per_capita_ppp",
+        "trade_pct_gdp",
+        "urban_population_pct",
+        "lpi_overall_score",
+        "lpi_infrastructure_score",
+        "gross_capital_formation_pct_gdp"
+    ],
+    "income_groups": [
+        "High income",
+        "Upper middle income",
+        "Lower middle income",
+        "Low income"
+    ],
+    "regions": [
+        "East Asia & Pacific",
+        "Europe & Central Asia",
+        "Latin America & Caribbean",
+        "Middle East & North Africa",
+        "North America",
+        "South Asia",
+        "Sub-Saharan Africa"
+    ],
+    "data_patterns": {
+        "realistic_correlations": "GDP correlates with infrastructure and emissions",
+        "growth_trends": "Economic growth, urbanization increase over time",
+        "missing_data": "Realistic patterns - LPI biennial, infrastructure gaps for low-income",
+        "variance": "Within-group variation mirrors real-world heterogeneity"
+    }
+}
